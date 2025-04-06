@@ -25,11 +25,10 @@ class DFS:
         self.N = random.randint(4, 7)
         grid = [[1 for _ in range(self.N)] for _ in range(self.N)]
 
-        # Randomly place source and goal
+
         self.source = Node(random.randint(0, self.N - 1), random.randint(0, self.N - 1), 0)
         self.goal = Node(random.randint(0, self.N - 1), random.randint(0, self.N - 1), self.goal_level)
 
-        # Ensure source and goal are not the same
         while self.source.x == self.goal.x and self.source.y == self.goal.y:
             self.goal = Node(random.randint(0, self.N - 1), random.randint(0, self.N - 1), self.goal_level)
 
