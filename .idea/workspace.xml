@@ -5,20 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5919688-f990-4c7e-a668-2a6fed06830a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem10(matplotlib).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem5(numpy).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem6(numpy).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem7(pandas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem8(pandas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem9(matplotlib).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/sales_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntroductionToPython(Part-2)/sales_data_with_revenue.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +35,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.GraphColouring.executor": "Run",
+    "Python.N-QueenProblem(self).executor": "Run",
+    "Python.N-QueenProblem.executor": "Run",
     "Python.Problem1.executor": "Run",
     "Python.Problem10(matplotlib).executor": "Run",
     "Python.Problem2.executor": "Run",
@@ -71,19 +60,22 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/ahmed/PycharmProjects/AiLAB_CSE_316/IntroductionToPython(Part-2)"
+    "last_opened_file_path": "C:/Users/ahmed/PycharmProjects/AiLAB_CSE_316/CLP_PRACTICE"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ahmed\PycharmProjects\AiLAB_CSE_316\CLP_PRACTICE" />
+      <recent name="C:\Users\ahmed\PycharmProjects\AiLAB_CSE_316\LabReport02\images" />
+      <recent name="C:\Users\ahmed\PycharmProjects\AiLAB_CSE_316" />
       <recent name="C:\Users\ahmed\PycharmProjects\AiLAB_CSE_316\IntroductionToPython(Part-2)" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ahmed\PycharmProjects\AiLAB_CSE_316" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Problem2">
-    <configuration name="Problem10(matplotlib)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.N-QueenProblem(self)">
+    <configuration name="GraphColouring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AiLAB_CSE_316" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,11 +84,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionToPython(Part-2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LabReport03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem10(matplotlib).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LabReport03/GraphColouring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N-QueenProblem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AiLAB_CSE_316" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CLP_PRACTICE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLP_PRACTICE/N-QueenProblem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="N-QueenProblem(self)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AiLAB_CSE_316" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CLP_PRACTICE" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLP_PRACTICE/N-QueenProblem(self).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,28 +163,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem7(pandas)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AiLAB_CSE_316" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionToPython(Part-2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem7(pandas).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Problem8(pandas)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AiLAB_CSE_316" />
       <option name="ENV_FILES" value="" />
@@ -171,35 +185,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Problem9(matplotlib)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="AiLAB_CSE_316" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntroductionToPython(Part-2)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntroductionToPython(Part-2)/Problem9(matplotlib).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.N-QueenProblem(self)" />
+        <item itemvalue="Python.N-QueenProblem" />
+        <item itemvalue="Python.GraphColouring" />
         <item itemvalue="Python.Problem2" />
         <item itemvalue="Python.Problem8(pandas)" />
-        <item itemvalue="Python.Problem7(pandas)" />
-        <item itemvalue="Python.Problem10(matplotlib)" />
-        <item itemvalue="Python.Problem9(matplotlib)" />
       </list>
     </recent_temporary>
   </component>
